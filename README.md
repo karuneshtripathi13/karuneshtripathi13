@@ -1,5 +1,5 @@
-- 👋<h1> Hi, I’m @karuneshtripathi13 </h1>
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Full Stack Web Development, Blockchain and Learning new technologies and implementing them in projects
+- 👋<h1> Hi, I’m Karunesh Tripathi @karuneshtripathi13 </h1>
+- 👀<h2> I’m interested in:-</h2><li> Machine Learning</li><li>Artificial Intelligence</li><li> Full Stack Web Development</li><li>Blockchain and Learning new technologies and implementing them in projects</li> 
 - 🌱 I’m currently learning Machine Learning and React
 - 💞️ I’m looking to collaborate on Artifical Intelligence, Machine Learning, Web development Projects 
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/karunesh-tripathi-128b431b9/ 
