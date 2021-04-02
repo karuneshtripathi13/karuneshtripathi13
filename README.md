@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karuneshtripathi13
+- 👋<h1> Hi, I’m @karuneshtripathi13 </h1>
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Full Stack Web Development, Blockchain and Learning new technologies and implementing them in projects
 - 🌱 I’m currently learning Machine Learning and React
 - 💞️ I’m looking to collaborate on Artifical Intelligence, Machine Learning, Web development Projects 
