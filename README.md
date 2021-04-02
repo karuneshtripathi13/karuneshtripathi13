@@ -4,12 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body style="background-color: aliceblue;">
--<h1 style="background-color: black;color: white;font-weight: bold;font-family: sans-serif;padding: 2%; margin: auto;width: fit-content;border-radius: 2vw">👋 Hi, I’m Karunesh Tripathi @karuneshtripathi13</h1>
+<h1 style="background-color: black;color: white;font-weight: bold;font-family: sans-serif;padding: 2%; margin: auto;width: fit-content;border-radius: 2vw">👋 Hi, I’m Karunesh Tripathi @karuneshtripathi13</h1>
 <div style="padding-left: 5%;">
--<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">👀 I’m interested in:-</h2>
+<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">👀 I’m interested in:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Machine Learning</li>
 <li>Artificial Intelligence</li>
@@ -17,16 +16,16 @@
 <li>Blockchain</li>
 <li>Learning new technologies and implementing them in projects</li>
 </h3>
--<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
+<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Machine Learning</li>
 <li>React Native </li>
 </h3>
--<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 💞️ I’m looking to:-</h2>
+<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 💞️ I’m looking to:-</h2>
 <h3 style="font-family: sans-serif;">
 <ui>Collaborate on:-</ui><ul><li>Artifical Intelligence</li><li> Machine Learning</li><li>Web development Projects</li></ul>
 </h3>
--<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 📫 How to reach me linkedin:-</h2>
+<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 📫 How to reach me linkedin:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Linkedin: <a href="https://www.linkedin.com/in/karunesh-tripathi-128b431b9/">karunesh-tripathi</a></li>
 <li>Instagram: karuneshtripathi__ </li>
