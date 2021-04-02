@@ -1,13 +1,42 @@
-- 👋<h1> Hi, I’m Karunesh Tripathi @karuneshtripathi13 </h1>
-- 👀<h2> I’m interested in:-</h2><li> Machine Learning</li><li>Artificial Intelligence</li><li> Full Stack Web Development</li>Blockchain and Learning new technologies and implementing them in projects 
-- 🌱 I’m currently learning Machine Learning and React
-- 💞️ I’m looking to collaborate on Artifical Intelligence, Machine Learning, Web development Projects 
-- 📫 How to reach me linkedin: https://www.linkedin.com/in/karunesh-tripathi-128b431b9/ 
-                      instagram: karuneshtripathi__ 
-                      gmail: karuneshtripathi13@gmail.com 
-                      student mail id: karunesh.tripathi2019@vitstudent.ac.in 
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: aliceblue;">
+-<h1 style="background-color: black;color: white;font-weight: bold;font-family: sans-serif;padding: 2%; margin: auto;width: fit-content;border-radius: 2vw">👋 Hi, I’m Karunesh Tripathi @karuneshtripathi13</h1>
+<div style="padding-left: 5%;">
+-<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">👀 I’m interested in:-</h2>
+<h3 style="font-family: sans-serif;">
+<li>Machine Learning</li>
+<li>Artificial Intelligence</li>
+<li>Full Stack Web Development</li>
+<li>Blockchain</li>
+<li>Learning new technologies and implementing them in projects</li>
+</h3>
+-<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
+<h3 style="font-family: sans-serif;">
+<li>Machine Learning</li>
+<li>React Native </li>
+</h3>
+-<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 💞️ I’m looking to:-</h2>
+<h3 style="font-family: sans-serif;">
+<ui>Collaborate on:-</ui><ul><li>Artifical Intelligence</li><li> Machine Learning</li><li>Web development Projects</li></ul>
+</h3>
+-<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 📫 How to reach me linkedin:-</h2>
+<h3 style="font-family: sans-serif;">
+<li>Linkedin: <a href="https://www.linkedin.com/in/karunesh-tripathi-128b431b9/">karunesh-tripathi</a></li>
+<li>Instagram: karuneshtripathi__ </li>
+<li>Gmail: karuneshtripathi13@gmail.com</li>
+<li>College mail id: karunesh.tripathi2019@vitstudent.ac.in</li>
+</h3>
 <!---
 karuneshtripathi13/karuneshtripathi13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
+</body>
+</html>
