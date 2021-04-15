@@ -16,10 +16,25 @@
 <li>Blockchain</li>
 <li>Learning new technologies and implementing them in projects</li>
 </h3>
+<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱What I know:-</h2>
+<h3 style="font-family: sans-serif;">
+<li>Java</li>
+<li>Python </li>
+<li>C++</li>
+<li>C </li>
+<li>Node JS</li>
+<li>React JS</li>
+<li>React Native </li>
+<li>HTML</li>
+<li>CSS </li>
+<li>Express</li>
+<li>MongoDB </li>
+<li>Scikit Learn</li>
+</h3>
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Machine Learning</li>
-<li>React Native </li>
+<li>Competitive Programming skills </li>
 </h3>
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 💞️ I’m looking to:-</h2>
 <h3 style="font-family: sans-serif;">
