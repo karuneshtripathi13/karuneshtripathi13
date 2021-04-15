@@ -55,10 +55,6 @@
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
 					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
                     <td align="center">
 						<span><strong>React</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
@@ -66,6 +62,10 @@
 					<td align="center">
 						<span><strong>React Native</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+                    <td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -101,7 +101,7 @@
 <li>Scikit Learn</li>
 </h3>
 
-![Karunesh's stats](https://github-readme-stats.vercel.app/api?username=karunesh13&show_icons=true&count_private=true&hide=stars)
+![Karunesh's stats](https://github-readme-stats.vercel.app/api?username=karuneshtripathi13&show_icons=true&count_private=true&hide=stars)
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Machine Learning</li>
