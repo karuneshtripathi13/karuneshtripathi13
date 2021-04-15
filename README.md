@@ -18,20 +18,110 @@
 </h3>
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱What I know:-</h2>
 <h3 style="font-family: sans-serif;">
-<li>Java</li>
-<img src="https://camo.githubusercontent.com/26043b6db7e2aee509448570c835702e9cd39397b53b18ac86b2b11090d08c26/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f707974686f6e2e737667"/>
-<li>C++</li>
-<li>C </li>
-<li>Node JS</li>
-<li>React JS</li>
-<li>React Native </li>
-<td align="center">
-	<span><strong>HTML</strong></span><br/>
-    <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-</td>
-<li>CSS </li>
-<li>Express</li>
-<li>MongoDB </li>
+<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td width="25%" align="center">
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td width="25%" align="center">
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td width="25%" align="center">
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+				</tr>
+				<tr>
+					<td width="20%" align="center">
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td width="20%" align="center">
+					<td  align="center">
+						<span><strong>Redux</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+					</td>
+					<td width="20%" align="center">
+					<td align="center">
+						<span><strong>Material UI</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+					</td>
+					<td width="20%" align="center">
+					<td align="center">
+						<span><strong>React Native</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+				</tr>
+				<tr>
+					<td width="20%" align="center">
+					<td align="center">
+						<span><strong>Vue.JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+	
+- **Backend Development**
+<center>
+	<table>
+		<tbody>
+			<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Firebase</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+					</td>
+			</tr>
+		</tbody>
+	</table>
+</center>
 <li>Scikit Learn</li>
 </h3>
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
