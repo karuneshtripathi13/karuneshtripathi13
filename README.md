@@ -25,7 +25,10 @@
 <li>Node JS</li>
 <li>React JS</li>
 <li>React Native </li>
-<li>HTML</li>
+<td align="center">
+	<span><strong>HTML</strong></span><br/>
+    <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+</td>
 <li>CSS </li>
 <li>Express</li>
 <li>MongoDB </li>
