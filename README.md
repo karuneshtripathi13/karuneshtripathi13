@@ -19,7 +19,7 @@
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱What I know:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Java</li>
-<li>Python </li>
+<img src="https://camo.githubusercontent.com/26043b6db7e2aee509448570c835702e9cd39397b53b18ac86b2b11090d08c26/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f707974686f6e2e737667"/>
 <li>C++</li>
 <li>C </li>
 <li>Node JS</li>
