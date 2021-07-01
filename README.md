@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tangerine">
 </head>
 <body style="background-color: aliceblue;">
 <h1 style="background-color: black;color: white;font-weight: bold;font-family: Tangerine, serif;padding: 2%; margin: auto;width: fit-content;border-radius: 2vw">👋 Hi, I’m Karunesh Tripathi @karuneshtripathi13</h1>
@@ -12,6 +12,7 @@
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">👀 I’m interested in:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Machine Learning</li>
+<li>Deep Learning</li>
 <li>Artificial Intelligence</li>
 <li>Full Stack Web Development</li>
 <li>Blockchain</li>
