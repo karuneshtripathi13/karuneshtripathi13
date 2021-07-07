@@ -8,7 +8,7 @@
 </head>
 <body style="background-color: aliceblue;">
 <h1 style="background-color: black;color: white;font-weight: bold;font-family: Tangerine, serif;padding: 2%; margin: auto;width: fit-content;border-radius: 2vw">👋 Hi, I’m Karunesh Tripathi @karuneshtripathi13</h1>
-<a href="https://karuneshtripathi.herokuapp.com/">Visit my portfoliosite=></a>
+<a href="https://karuneshtripathi.herokuapp.com/">Visit my portfoliosite</a>
 <div style="padding-left: 5%;">
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">👀 I’m interested in:-</h2>
 <h3 style="font-family: sans-serif;">
