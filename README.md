@@ -104,7 +104,7 @@
 <li>Scikit Learn</li>
 </h3>
 
-![Karunesh's stats](https://github-readme-stats.vercel.app/api?username=karuneshtripathi13&show_icons=true&count_private=true&hide=stars)
+<!--![Karunesh's stats](https://github-readme-stats.vercel.app/api?username=karuneshtripathi13&show_icons=true&count_private=true&hide=stars)-->
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Machine Learning</li>
