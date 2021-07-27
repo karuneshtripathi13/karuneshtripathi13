@@ -84,11 +84,15 @@
 						<span><strong>Node JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
 					</td>
-					<td width="25%" align="center">
+					<td width="25%" style="background-color:white" align="center">
+						<span><strong>Flask</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/flask.svg">
+					</td>
+					<td width="25%" style="background-color:white" align="center">
 						<span><strong>Express</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
 					</td>
-					<td width="25%" align="center">
+					<td width="25%" style="background-color:white" align="center">
 						<span><strong>MongoDB</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 					</td>
@@ -100,10 +104,36 @@
 		</tbody>
 	</table>
 </center>
-<h4>Others:-</h4>
-<li>Scikit Learn</li>
-</h3>
+<h4>Machine Learning and Deep Learning:-</h4>
 
+<center>
+<table>
+<tbody>
+<tr>
+<td width="25%" align="center">
+<span><strong>Express</strong></span><br/>
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Scikit Learn</strong></span><br/>
+<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+</td>
+<td width="25%" align="center">
+<span><strong>Express</strong></span><br/>
+<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
+</td>
+</tr>
+</h3>
+</tbody>
+</table>
+</center>
+<h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">Hosted Projects:-</h2>
+<h3 style="font-family: sans-serif;">
+<li>Used car price prediction using Deep Learning: <a href="https://mycarwoth.herokuapp.com/">what's my car worth</a></li>
+<li>LAHI - Code for Good by JP Morgan Chase & Co.: <a href="https://cfg2.bemyapp.com/#/projects/60ea06f29365ac001be00806">Our Project</a></li>
+<li>Version Control ,WBS and Progress-Tracking system: <a href="https://version-control-and-uml.herokuapp.com/">Version Control and UML</a></li>
+<li>Father's Clinic site: <a href="https://karuneshtripathi13.github.io/Homoeocare.github.io/">Homoeocare+</a></li>
+</h3>
 <!--![Karunesh's stats](https://github-readme-stats.vercel.app/api?username=karuneshtripathi13&show_icons=true&count_private=true&hide=stars)-->
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">🌱 I’m currently learning:-</h2>
 <h3 style="font-family: sans-serif;">
@@ -116,6 +146,7 @@
 </h3>
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw"> 📫 How to reach me linkedin:-</h2>
 <h3 style="font-family: sans-serif;">
+<li>Visit my portfolio site: <a href="https://karuneshtripathi.herokuapp.com/">karuneshtripathi.herokuapp.com</a></li>
 <li>Linkedin: <a href="https://www.linkedin.com/in/karunesh-tripathi-128b431b9/">karunesh-tripathi</a></li>
 <li>Instagram: karuneshtripathi__ </li>
 <li>Gmail: karuneshtripathi13@gmail.com</li>
