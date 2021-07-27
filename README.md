@@ -111,7 +111,7 @@
 <tbody>
 <tr>
 <td width="25%" align="center">
-<span><strong>Express</strong></span><br/>
+<span><strong>Tensorflow</strong></span><br/>
 <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
 </td>
 <td width="25%" align="center">
@@ -119,7 +119,7 @@
 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
 </td>
 <td width="25%" align="center">
-<span><strong>Express</strong></span><br/>
+<span><strong>Pandas</strong></span><br/>
 <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
 </td>
 </tr>
@@ -130,6 +130,7 @@
 <h2 style="background-color: navy;color: white;font-weight: bold;font-family: sans-serif;padding: 1%;width: fit-content;border-radius: 1vw">Hosted Projects:-</h2>
 <h3 style="font-family: sans-serif;">
 <li>Used car price prediction using Deep Learning: <a href="https://mycarwoth.herokuapp.com/">what's my car worth</a></li>
+<li>Portfolio site: <a href="https://karuneshtripathi.herokuapp.com/">karuneshtripathi.herokuapp.com</a></li>
 <li>LAHI - Code for Good by JP Morgan Chase & Co.: <a href="https://cfg2.bemyapp.com/#/projects/60ea06f29365ac001be00806">Our Project</a></li>
 <li>Version Control ,WBS and Progress-Tracking system: <a href="https://version-control-and-uml.herokuapp.com/">Version Control and UML</a></li>
 <li>Father's Clinic site: <a href="https://karuneshtripathi13.github.io/Homoeocare.github.io/">Homoeocare+</a></li>
