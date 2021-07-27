@@ -84,15 +84,15 @@
 						<span><strong>Node JS</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
 					</td>
-					<td width="25%" style="background-color:white" align="center">
+					<td width="25%" align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/flask.svg">
 					</td>
-					<td width="25%" style="background-color:white" align="center">
+					<td width="25%" align="center">
 						<span><strong>Express</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
 					</td>
-					<td width="25%" style="background-color:white" align="center">
+					<td width="25%" align="center">
 						<span><strong>MongoDB</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
 					</td>
